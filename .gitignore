@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Cached data from OWID
+data/
+
+# Generated output
+good_news.json
+
+# Original archive
+goodnews_machine_files.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
